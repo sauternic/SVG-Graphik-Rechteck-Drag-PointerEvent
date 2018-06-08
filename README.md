@@ -1,0 +1,1 @@
+# SVG-Graphik-Rechteck_Drag_PointerEvent
