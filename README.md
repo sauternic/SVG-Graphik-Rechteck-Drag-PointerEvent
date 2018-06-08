@@ -13,3 +13,4 @@ Rechtecke dynamisch Erzeugen und Bewegen mit Touch und Mouse (PointerEvent)
 - IE
 - Edge
 - Opera
+- Android Smartphone Chrom und Standardbrowser
